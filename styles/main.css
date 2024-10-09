@@ -3409,7 +3409,7 @@ html[dir=rtl] .has-ultimate-tooltip .ultimate-tooltip-arrow {
 }
 
 .hero__imgLayer:last-of-type {
-  height: 50%;
+  height: 80%;
   overflow: hidden;
 }
 
